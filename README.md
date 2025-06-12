@@ -1,5 +1,10 @@
 # List of Ark Wallets Being Prototyped / Developed
 
+## [Arkade Wallet](https://github.com/arkade-os/wallet)
+![Stars](https://img.shields.io/github/stars/arkade-os/wallet?style=social)
+![Contributors](https://img.shields.io/github/contributors/arkade-os/wallet)
+![Issues](https://img.shields.io/github/issues/arkade-os/wallet)
+
 ## [simple-ark-wallet](https://github.com/Randy808/simple-ark-wallet)
 ![Stars](https://img.shields.io/github/stars/Randy808/simple-ark-wallet?style=social)
 ![Contributors](https://img.shields.io/github/contributors/Randy808/simple-ark-wallet)
